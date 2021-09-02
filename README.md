@@ -1,2 +1,1 @@
-# class-34-
-Added stars and more challenges
+# C34_template_code
